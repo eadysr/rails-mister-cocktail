@@ -27,4 +27,6 @@ Ingredient.create(name: "vermouth")
 Ingredient.create(name: "campari")
 Ingredient.create(name: "cream")
 Ingredient.create(name: "gin")
+Ingredient.create(name: "cachaça")
 Ingredient.create(name: "orange peel")
+
